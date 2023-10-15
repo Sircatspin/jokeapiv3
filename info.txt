@@ -1,0 +1,36 @@
+{
+    "error": false,
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "I stayed up all night wondering where the sun went.",
+    "delivery": "Then it dawned on me.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 287,
+    "lang": "en"
+}
+{
+    "error": false,
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "What's long and hard and has cum in it?",
+    "delivery": "A cucumber.",
+    "flags": {
+        "nsfw": true,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 240,
+    "safe": false,
+    "lang": "en"
+}
